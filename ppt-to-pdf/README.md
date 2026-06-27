@@ -1,4 +1,4 @@
-```
+
 # PowerPoint to PDF Converter
 
 A simple and efficient Python script to automate the batch conversion of PowerPoint presentations (`.pptx`, `.ppt`) into PDF files. This tool utilizes the local Microsoft PowerPoint application to ensure high-fidelity output.
